@@ -1,12 +1,15 @@
 # **EKATERINA MEDVEDEVA**
 **Junior QA Engineer**
+
 Riga, Latvia
 
 
 # **Contact**
 **Email:** enmedv@gmail.com
+
 **Linkedin:** [ekaterina-medvedeva]
 [ekaterina-medvedeva][https://www.linkedin.com/in/ekaterina-medvedeva/]
+
 **GitHub:** [enmedv]
 [enmedv][https://github.com/enmedv]
 
@@ -14,6 +17,7 @@ Riga, Latvia
 # **PROFILE**
 
 Currently, I am searching for my first job in the field of software testing. I have completed courses in manual testing and continue to self-study in this field. I have an understanding of software development processes, stages, and methodologies of quality assessment. For more than 10 years my professional experience was connected with working with people. I have searched for and screened candidates for open vacancies in companies, taught psychology and provided psychological help to people who found themselves in difficult life situations. In my opinion, this experience can be useful in resolving complex situations with users and collaborating with team members and other company employees. I’m ready to learn, develop skills and knowledge, as well as share it.
+
 
 ​# **​EDUCATION**
 
@@ -24,11 +28,11 @@ Jul 2024 - present
 ## *RedRover School*
 Aug 2022 - present
 Riga
-*Learning the basics of Java, JavaScript;
-*Practicing with frameworks Selenium, TestNG, Maven, Cypress;
-*Creating test cases and writing automated tests for the educational project;
-*Working with Git;
-*Applying an object-oriented approach for building a test system for the educational project.
+* Learning the basics of Java, JavaScript;
+* Practicing with frameworks Selenium, TestNG, Maven, Cypress;
+* Creating test cases and writing automated tests for the educational project;
+* Working with Git;
+* Applying an object-oriented approach for building a test system for the educational project.
 
 
 ## *Yandex.Practicum*
